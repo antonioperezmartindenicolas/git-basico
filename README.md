@@ -1,5 +1,5 @@
 # git-basico
----
--uno
--dos
--[superliga](https://superliga.lvp.global/)
+
+- uno
+- dos
+- [superliga](https://superliga.lvp.global/)
