@@ -13,7 +13,7 @@ Este es un repositorio para ver los equipos que jugarán en la domino´s Superli
 
 # Enlaces
 - [Superliga](https://superliga.lvp.global/)
-- 
+  
 ![superliga](https://github.com/user-attachments/assets/47c9c52c-f29d-42e4-bb02-ea1ff05baba3)
 
 - [LFL](https://www.lollfl.com/)
