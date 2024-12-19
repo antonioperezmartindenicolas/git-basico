@@ -11,4 +11,6 @@ Este es un repositorio para ver los equipos que jugarán en la domino´s superli
 ## Autor
 **ANTONIO PEREZ MARTIN DE NICOLAS**
 
-- [superliga](https://superliga.lvp.global/)
+- [Superliga](https://superliga.lvp.global/)
+- [LFL](https://www.lollfl.com/)
+- [LEC](https://lolesports.com/standings/lec)
