@@ -3,6 +3,8 @@
 # Mi primer proyecto de eSports en github
 Este es un repositorio para ver los equipos que jugarán en la domino´s Superliga , en la LFL y en la LEC en 2025
 
+![imagen](/imagenes/sergio.jpg)
+
 ## Contenido
 - Carpeta 1: Superliga
 - Carpeta 2: LFL
